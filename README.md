@@ -1,13 +1,5 @@
 ## Welcome to EHS Stack
-EHS Stack is a free, open resource built for Environmental, Health, and Safety professionals at every stage of their career. 
-
-This project was created by an EHS practitioner who wanted to fill a gap: practical, well-designed tools that actually reflect what happens in the field. 
-
-Here you will find documents, tracking spreadsheets, quick reference cards, and one-sheet posters, all designed to be immediately useful and professionally presentable. 
-
-Everything is free to use, adapt, and share. 
-
-If you have questions, suggestions, or just want to connect, feel free to send a DM on LinkedIn https://www.linkedin.com/in/michaelfkenney/ 
+EHS Stack is a free, open resource built for Environmental, Health, and Safety professionals at every stage of their career. This project was created by an EHS practitioner who wanted to fill a gap: practical, well-designed tools that actually reflect what happens in the field. Here you will find documents, tracking spreadsheets, quick reference cards, and one-sheet posters, all designed to be immediately useful and professionally presentable. Everything is free to use, adapt, and share. If you have questions, suggestions, or just want to connect, feel free to send a DM on LinkedIn https://www.linkedin.com/in/michaelfkenney/ 
 <!--
 **EHS-Stack/EHS-Stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
